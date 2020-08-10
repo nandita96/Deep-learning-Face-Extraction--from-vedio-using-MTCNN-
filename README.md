@@ -2,8 +2,8 @@
 Multi-task Cascaded Convolutional Network (MTCNN) model is used for face detection. This model has three convolutional networks (P-Net, R-Net, and O-Net) and is able to outperform many face-detection benchmarks while retaining real-time performance. 
 
 ## MTCNN arhitecture:
-<img src="image_graph/MTCNN image.PNG" width="800" height="400">
+ <img src="image_graph/MTCNN image.PNG" width="800" height="400">
 
 ## Example: Flow of face extraction of my code shown below
 
-<img src="image_graph/face detection image.png" width="800" height="400">
+ <img src="image_graph/face detection image.png" width="800" height="400">
